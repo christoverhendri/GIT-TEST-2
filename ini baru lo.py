@@ -1,1 +1,1 @@
-print("hahahahaha")
+print("jelek yang tadi")
